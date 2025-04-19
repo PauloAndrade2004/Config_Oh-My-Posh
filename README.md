@@ -69,4 +69,4 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\paradox.omp.json" | Invoke-
 
 ---
 
-Se quiser, posso montar um script que faça tudo automático pra você. Quer?
+Acessem esse conteúdo do Youtube : https://youtu.be/6SGIFVJ5Izs?si=W4G4NJ8R0Ue00-RH
